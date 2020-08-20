@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Enuvid/Enuvid/master/chrome-dino.gif" width="838" height="237">
+<img src="https://raw.githubusercontent.com/Enuvid/Enuvid/master/chrome-dino.gif" width="100%">
 
 <!--
 **Enuvid/Enuvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
