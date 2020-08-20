@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alt Text](https://raw.githubusercontent.com/Enuvid/Enuvid/master/chrome-dino.gif)
 
 <!--
 **Enuvid/Enuvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
